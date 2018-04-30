@@ -1,1 +1,7 @@
 Archivo de Miguel Fernández
+<<<<<<< Updated upstream
+Un cambio
+=======
+
+Miguel Barbancho pasó por aquí el primero :)
+>>>>>>> Stashed changes
