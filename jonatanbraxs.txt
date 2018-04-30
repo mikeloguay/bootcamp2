@@ -1,1 +1,6 @@
 jonatanbraxs
+<<<<<<< HEAD
+Esto es un cambio!!
+=======
+modificado
+>>>>>>> master
