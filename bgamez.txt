@@ -1,1 +1,8 @@
 Archivo de Beatriz Gámez
+<<<<<<< HEAD
+Cambiado por jonatan 
+=======
+un cambio
+dos cambios
+>>>>>>> master
+otro cambio 
