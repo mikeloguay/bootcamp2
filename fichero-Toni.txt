@@ -1,8 +1,31 @@
+<<<<<<< Updated upstream
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+Archivo de Jose Palacio
+
+CAMBIADO A LAS 16:22 , suma y sigue ...
+
+
+
+
+=======
 fichero Toni
-Cambiado por mifernandez
 
 primer cambio version 1.0
 
 cambiado para Balbino
 
 
+>>>>>>> Stashed changes
